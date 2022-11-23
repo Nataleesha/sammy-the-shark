@@ -1,0 +1,23 @@
+{
+  "name": "sammy-the-shark",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build src/index.html --public-url /sammy-the-shark/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataleesha/sammy-the-shark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nataleesha/sammy-the-shark/issues"
+  },
+  "homepage": "https://github.com/Nataleesha/sammy-the-shark",
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
