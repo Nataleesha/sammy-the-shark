@@ -7,7 +7,6 @@ deploying with parcel
   }
 4. add “homepage”: “http://github-username.github.io/github-repo-name"
 5. add “scripts”: {
-...
 “predeploy”: “npm run build”,
 “deploy”: “gh-pages -d build”
 }
