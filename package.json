@@ -20,9 +20,7 @@
   },
   "homepage": "https://github.com/Nataleesha/sammy-the-shark",
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "parcel": "^2.8.0"
-  },
-  "dependencies": {
-    "gh-pages": "^4.0.0"
   }
 }
