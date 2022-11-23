@@ -10,4 +10,4 @@ deploying with parcel
 “predeploy”: “npm run build”,
 “deploy”: “gh-pages -d build”
 }
-6.npm run deploy
+6. npm run deploy
